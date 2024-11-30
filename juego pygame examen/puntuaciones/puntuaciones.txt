@@ -1,0 +1,29 @@
+Nombre,Puntuación
+fer,70
+fer,10
+rodri,170
+fer,80
+eze,20
+pepe,50
+luis,200
+hola,80
+pepe,0
+hola,110
+ll,30
+luis,110
+pepe,0
+lola,0
+lola,20
+leo,0
+leo,30
+loe2,0
+prueba,10
+prueba 2,70
+prueba 3,400
+jj,820
+enzo el crack,60
+ne,50
+luis,170
+hola,170
+pablo,2200
+QQ@@@@,230
